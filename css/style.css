@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 90vh;
+    background: url(http://storage.kun.uz/source/old/Marufniki/ajfo2.jpg);
+    background-size: cover;
+}
+
+.inp1{
+    width: 400px;
+    height: 30px;
+    padding-left: 15px;
+    margin-top: 15px;
+    border-radius: 20px;
+    border: 3px solid aqua;
+}
+.inp2{
+    width: 400px;
+    height: 30px;
+    padding-left: 15px;
+    margin-top: 15px;
+    border-radius: 20px;
+    border: 3px solid aqua;
+}
+button{
+    background-color: green;
+    color: white;
+    border: 1px solid aqua;
+    width: 100px;
+    height: 25px;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+.box{
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    margin-top: 100px;
+    text-align: center;
+}
